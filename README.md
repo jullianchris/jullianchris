@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jullian Christopher
-- 👀 I'm currently Final year student and same time working as Tech Lead.
+- 👀 I'm working as .NET Tech Lead
 
 Frameworks :
     .NET , REACT
