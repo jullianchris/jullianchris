@@ -7,7 +7,7 @@ I'm a passionate and results-driven .NET Tech Lead with a deep love for coding a
 
 ## 💼 Professional Background
 - **Current Role**: .NET Tech Lead
-- **Experience**: 3 years
+- **Experience**: 4 years
 
 ## 💻 Technical Expertise
 I specialize in a variety of technologies, including:
